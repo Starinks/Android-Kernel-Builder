@@ -3,7 +3,7 @@
       "name": "miku-KernelSU",
       "repo": "https://github.com/Starinks/kernel_Redmi-3S-3X",
       "branch": "eleven",
-      "device": "land-m-oss"
+      "device": "msm8937"
     },
     "withKernelSU": false,
     "toolchains": [
