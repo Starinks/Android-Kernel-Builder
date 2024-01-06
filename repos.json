@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "land-m-oss",
+      "repo": "https://github.com/Starinks/kernel_Redmi-3S-3X",
+      "branch": "eleven",
       "device": "land-m-oss"
     },
     "withKernelSU": true,
