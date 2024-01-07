@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/Starinks/kernel_Redmi-3S-3X",
-      "branch": "eleven",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8937",
+      "branch": "Lineage-20",
       "device": "msm8937"
     },
     "withKernelSU": false,
