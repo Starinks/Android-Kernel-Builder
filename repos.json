@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "miku-KernelSU",
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8937",
-      "branch": "Lineage-20",
+      "branch": "lineage-20",
       "device": "msm8937"
     },
     "withKernelSU": false,
