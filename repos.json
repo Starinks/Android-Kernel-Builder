@@ -3,7 +3,7 @@
       "name": "miku-KernelSU",
       "repo": "https://github.com/Starinks/android_kernel_xiaomi_msm8937",
       "branch": "lineage-20",
-      "device": "msm8937"
+      "device": "land"
     },
     "withKernelSU": false,
     "toolchains": [
